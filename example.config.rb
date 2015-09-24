@@ -9,3 +9,6 @@ configatron.server = 'irc.twitch.tv'
 configatron.channels = [
   ''
 ]
+
+configatron.githubuser = ''
+configatron.gist = ''
